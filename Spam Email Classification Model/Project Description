@@ -1,0 +1,5 @@
+## Spam Email Classification Model
+
+This project builds a machine learning model to classify emails as spam or not spam using text-based features. I engineered features such as email length, punctuation usage, and keyword frequency, and used logistic regression to make predictions.
+
+The model was evaluated using an ROC curve (AUC ≈ 0.93), showing strong performance in distinguishing spam from non-spam emails. This project demonstrates my experience with feature engineering, classification models, and model evaluation in a real-world text analysis problem.
